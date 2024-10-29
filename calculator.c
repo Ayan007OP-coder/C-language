@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 { int a,b;
-printf("enter two integers :");
+printf("enter the two integers :");
 scanf("%d %d",&a,&b);
 int x;
-printf("enter : ");
+printf("enter 1,2,3,4 for multiplication,division,addition,substraction respectively : ");
 scanf("%d",&x);
 switch(x)
 {
